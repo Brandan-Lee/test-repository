@@ -1,3 +1,3 @@
-# test-repository
+# My very first repo
 
-This is a second example
+Brandan is an awesome developer. I will leave him a nice review
